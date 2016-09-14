@@ -1,2 +1,3 @@
 # hello-world
 testing and a chance to learn a little about GIT
+hoping to learn the most possible and to get the chance to create amazing stuff coding....
